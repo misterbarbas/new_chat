@@ -1,0 +1,14 @@
+/*FEEDBACK CHAT FITIT*/
+
+
+/*maquetacion*/
+
+->Mejorar textras CSS.
+->Aplicar Backgrounds.
+-> luz verde
+
+
+/*desarrollo*/
+
+-> 50% traducido nativo a Codeigniter
+-> Buscador interno (funcionalidad) (relacionado con la parte backend)
